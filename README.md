@@ -1,2 +1,9 @@
 # discord-boost-bot
-boosting discord servers with tokens
+ Tokens:
+- Tokens need to have nitro
+- Tokens need to be on the Server
+
+Libraries:
+- colorama
+- requests
+
